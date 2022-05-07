@@ -1,5 +1,5 @@
 import { Widget } from './components/Widget'
 
-export const App = () => {
+export function App() {
   return <Widget />
 }
